@@ -1,0 +1,31 @@
+h1 {
+    color:darkgreen;
+}
+h1,h2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+p, ul {
+    line-height: 25px;
+}
+* {
+    text-decoration: none;
+}
+footer:hover {
+    text-decoration: underline;
+}
+#text-upper {
+    text-transform: uppercase;
+}
+img {
+    float: left;
+}
+img{
+    padding-top: 20px;
+    padding-right: 30px;
+    padding-bottom: 20px;
+}
+
+
+
+
