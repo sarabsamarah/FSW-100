@@ -1,0 +1,67 @@
+* {
+
+background-color: honeydew;
+
+}
+
+
+.heads {
+    text-align: center;
+    text-size-adjust: 5%;
+    padding-top: 20px;
+    font-family: Tahoma;
+    background-color: darkgray;
+
+}
+
+
+.nav-bar {
+    position: fixed;
+    text-align: center;
+    text-size-adjust: 25%;
+    width: 100%;
+    margin: 10px;
+    background-color: blanchedalmond;
+}
+
+
+.Asana{
+    /* height: 200px;
+    float:left;
+    margin-left: 25px;
+    padding-right:5px;
+    padding-left:5px;
+    padding-bottom:5px;
+    padding-top:5px;
+    background-color: darkolivegreen;
+    overflow: auto; */
+    position: relative;
+    display: inline-block;
+    left: 0;
+    margin-left: 25px;
+
+}
+
+.content {
+    display: inline;
+    margin-right: 10px;
+    margin-left: 20px;
+    text-align: center; 
+    margin-bottom: 50px;
+    padding-left: 10px;
+    background-color: beige;
+}
+
+h3 {
+    text-align: center;
+}
+
+h4 {
+    text-align: center;
+}
+
+
+
+
+
+
