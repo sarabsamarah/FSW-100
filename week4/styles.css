@@ -1,8 +1,8 @@
-* {
+/* * {
 
 background-color: honeydew;
 
-}
+} */
 
 
 .heads {
@@ -36,30 +36,41 @@ background-color: honeydew;
     background-color: darkolivegreen;
     overflow: auto; */
     position: relative;
-    display: inline-block;
-    left: 0;
-    margin-left: 25px;
+    float:left;
+    padding-right: 10px;
+    width: 250px;
+    height:200px;
 
 }
 
 .content {
-    display: inline;
-    margin-right: 10px;
-    margin-left: 20px;
     text-align: center; 
-    margin-bottom: 50px;
-    padding-left: 10px;
+    margin: 2%;
+    padding: 2%;
     background-color: beige;
 }
 
 h3 {
     text-align: center;
+    color:black;
+    text-decoration: underline;
 }
 
 h4 {
     text-align: center;
+    color: black;
 }
 
+.container {
+    color: darkgoldenrod;
+    background-color: beige;
+    padding: 2px;
+    margin: 3%;
+    height: auto;
+    width: auto;
+    border: 10px solid darkgoldenrod;
+    overflow: hidden;
+}
 
 
 
