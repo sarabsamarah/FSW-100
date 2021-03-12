@@ -1,0 +1,92 @@
+.heads {
+    text-align: center;
+    text-size-adjust: 5%;
+    padding-top: 20px;
+    font-family: Helvetica;
+    font-style: italic;
+    font-family: 'Bad Script', cursive;
+    color: gold;
+
+}
+
+
+.nav-bar {
+    position: fixed;
+    text-align: center;
+    text-size-adjust: 25%;
+    width: 100%;
+    margin: 10px;
+    font-family: cursive;
+    color: bisque;
+    
+}
+
+
+
+.content {
+    text-align: center; 
+    margin: 2%;
+    padding: 2%;
+}
+
+h3 {
+    text-align: center;
+    color: blueviolet;
+}
+
+h4 {
+    text-align: center;
+    color: black;
+}
+
+.container {
+    color: bisque;
+    padding: 2px;
+    margin: 7%;
+    height: 300;
+    width: 100;
+    border: 10px solid silver;
+    overflow: hidden;
+    text-align: center;
+    list-style-position: inside;
+}
+
+.dancer {
+    position: relative;
+    height: 500px;
+    width: 500px;
+    overflow: auto;
+}
+
+* {
+    font-family: 'Bad Script', cursive;
+    background-color: black;
+}
+
+.yoga {
+    color: blueviolet;
+    padding: 10px;
+    margin: 20%;
+    height: 200;
+    width: 50;
+    border: 8px solid turquoise;
+    overflow: hidden;
+    text-align: center;
+    list-style-position: inside ;
+    
+}
+
+table, th, td, tr {
+    border: 5px solid lightslategrey;
+    color: lightpink;
+}
+
+h2 {
+    color: lightpink;
+    text-decoration: underline;
+}
+
+p {
+    color:blueviolet;
+}
+
