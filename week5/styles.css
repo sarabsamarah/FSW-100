@@ -1,0 +1,93 @@
+
+.grid {
+    display: grid;
+    grid-template-columns:repeat(4,1fr);
+    grid-gap:10px;
+}
+
+
+
+
+.pink,
+.purple,
+.orange, 
+.green, 
+.aqua {
+    float: left;
+    height: 100px;
+    padding: 10px;
+    border: 10px solid white;
+}
+
+.pink {
+    background-color: #F5C6D6;
+    width: 96.3%;
+    display: inline-block;
+    
+}
+
+
+.purple {
+    background-color: #ee2e84;
+    width: 22%;
+    display:inline-block;
+
+}
+
+
+.aqua {
+    background-color: #85cfd8;
+    width: 46.68%;
+    display: inline-block;
+}
+
+.green {
+    background-color: #8dc63f;
+    width: 65%;
+    display: inline-block;
+}
+
+.orange {
+    background-color: #e76e34;
+    width: 28%;
+    display: inline-block;
+    
+}
+
+@media only screen and (max-width: 768px){
+    .pink {
+        background-color: #F5C6D6;
+        width: 100%;
+        display: inline-block;  
+    
+    }
+    .purple {
+        background-color: #ee2e84;
+        width: 100%;
+        display:inline-block;
+    
+    }
+    .aqua {
+        background-color: #85cfd8;
+        width: 100%;
+        display: inline-block;
+        
+    }
+    .green {
+        background-color: #8dc63f;
+        width: 100%;
+        display: inline-block;
+    }
+    .orange {
+        background-color: #e76e34;
+        width: 100%;
+        display: inline-block;
+        
+    }
+
+
+
+
+}
+
+

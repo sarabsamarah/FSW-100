@@ -1,0 +1,17 @@
+notes from class 3/16/21
+
+psuedo sele ctors (w3 schools )
+hovering, selection, visited and new
+
+chrome dev tools Debugging anf styling using elements tab
+
+css box model 
+margin, border, padding, content 
+content: thisis where the content of the element lives width and height if no amount of an element is contained in it then it wouldnt be real
+padding: this is spacing between the content and the lelements border 
+border: this is the virtual divider around your element.  designed to keep your elelemnt in and other elements out.
+margin: the area around your border and window
+
+Psuedo Selectors.CSS Grid and responsiveness:
+
+https://www.w3schools.com/css/css_rwd_mediaqueries.asp
